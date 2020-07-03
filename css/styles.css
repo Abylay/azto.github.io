@@ -471,7 +471,7 @@ mark,
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: -webkit-fill-available;
 }
 
 .img-thumbnail {
@@ -10404,9 +10404,9 @@ header.masthead .masthead-heading {
     margin-left: -75px;
   }
   .timeline > li .timeline-image h4 {
-    font-size: 18px;
-    line-height: 26px;
-    margin-top: 30px;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 18px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 20px 20px;
