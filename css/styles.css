@@ -10532,7 +10532,6 @@ section#contact form#contactForm :-ms-input-placeholder {
     display: block;
     height: 300px;
     width: auto;
-    max-width: 336px;
     margin-left: auto;
     margin-right: auto;
   }
